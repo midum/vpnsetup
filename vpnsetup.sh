@@ -26,7 +26,7 @@
 
 YOUR_IPSEC_PSK='24Soutey'
 YOUR_USERNAME='Mitch'
-YOUR_PASSWORD='Mitch22!'
+YOUR_PASSWORD='Mitch22'
 
 # Important notes:   https://git.io/vpnnotes
 # Setup VPN clients: https://git.io/vpnclients
